@@ -32,7 +32,7 @@
       "react-app/jest"
     ]
   },
-  "proxy": "https://pdf24.onrender.com",
+  "proxy": "https://pdf24-448e.onrender.com",
   "browserslist": {
     "production": [
       ">0.2%",
